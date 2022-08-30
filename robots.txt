@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://adnankhan27.github.io/retype-test/sitemap.xml.gz
+Sitemap: https://adnankhan27.github.io/retype-test/retype/sitemap.xml.gz
